@@ -8,4 +8,4 @@ View - GameView (Display the game on the window)
 
 All code is referenced the tutorial of [Snake Game](https://zhuanlan.zhihu.com/p/23316639)
 
-![](https://github.com/ggmm11/SnakeGame/SnakeGame.PNG)
+![](https://github.com/ggmm11/SnakeGame/blob/master/SnakeGame.PNG)
